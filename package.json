@@ -10,14 +10,10 @@
   "author": "",
   "license": "ISC",
   "jspm": {
-    "dependencies": {
-      "reflect-metadata": "npm:reflect-metadata@0.1.3"
-    },
+    "dependencies": {},
     "devDependencies": {}
   },
-  "dependencies": {
-    "reflect-metadata": "0.1.3"
-  },
+  "dependencies": {},
   "devDependencies": {
     "jspm": "0.16.32"
   }
